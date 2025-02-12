@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **support@modli.eu**
 
-- ⚡ Fun fact **A Delfin isn't a Dog**
+- ⚡ Fun fact **Microsoft Surface is Shit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
