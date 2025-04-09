@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Modli](https://modli.eu)
 
-- 📫 How to reach me **support@modli.eu**
+- 📫 How to reach me **florian@flostechnikwelt.de**
 
 - ⚡ Fun fact **Microsoft Surface is Shit**
 
