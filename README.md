@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm FlosTechnikwelt</h1>
-<h3 align="center">A developer from Germany</h3>
+<h3 align="center">Developer, infrastructure enthusiast and UniFi fan from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flostechnikwelt&label=Profile%20views&color=0e75b6&style=flat" alt="flostechnikwelt" /> </p>
 
-- 🔭 I’m currently working on [Modli](https://modli.eu)
+- 🔭 I’m currently working on ProjectPilot, a Rancher, argoCD & Gitlab helper
 
 - 📫 How to reach me **florian@flostechnikwelt.de**
 
-- ⚡ Fun fact **Microsoft Surface 7 is  Shit**
+- ⚡ Fun fact **I believe every good setup starts with “just one quick script”**
+
+
+## 👨‍💻 About me
+
+- 🎓 Apprentice Software Developer at DESY
+- 🏢 Previously worked at Grassau GmbH
+- 🌐 Big Ubiquiti / UniFi enthusiast
+- 🔧 Interested in networking, automation, servers and clean infrastructure
+- 🚀 Currently working on ProjectPilot, a Rancher, ArgoCD & GitLab helper
+- 🧠 I like building tools that make infrastructure easier to manage
+- ☕ Fun fact: I trust GitOps more than my own memory
 
 
 <h3 align="left">Languages and Tools:</h3>
